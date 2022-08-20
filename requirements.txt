@@ -1,0 +1,20 @@
+braceexpand
+h5py
+lmdb
+-e git+https://github.com/tmbdev/webdataset.git#egg=webdataset
+# bs4
+# humanhash3
+# lxml
+# matplotlib
+# scikit-image
+# scipy
+# tasker
+# typer
+# tabulate
+# kornia
+# editdistance
+# -e git+https://github.com/tmbdev/torchmore.git#egg=torchmore
+# pytorch-lightning
+# wandb
+# # -e git+https://github.com/PytorchLightning/pytorch-lightning.git@master#egg=pytorch_lightning
+# ray
